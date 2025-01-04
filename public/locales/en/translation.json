@@ -1,0 +1,49 @@
+{
+    "section1": {
+        "1": "Hello",
+        "home": "Home",
+        "contact": "Category",
+        "about": "About",
+        "sign": "Sign up",
+        "category":"Contacts"
+    },
+    "home": {
+        "1": "Woman's fasion",
+        "2": "Men’s Fashion",
+        "3": "Electronics",
+        "4": "Home & Lifestyle",
+        "5": "Medicine",
+        "6": "Sports & Outdoor",
+        "7": "Baby's & Toys",
+        "8": "Groceries & Pets",
+        "9": "Health & Beauty",
+        "10": "Hour",
+        "11": "Days",
+        "12": "Minutes",
+        "13": "Seconds",
+        "14": "View All Products",
+        "15": "Browse By Category",
+        "16": "North coat",
+        "17": "Categories",
+        "18": "Enhance Your Music Experience",
+        "19": "Buy now",
+        "20":"New Arival",
+        "21":"Exclusive",
+        "22":"Support",
+        "23":"Account",
+        "24":"Quick Link",
+        "25":"Social"
+    },
+    "Login":{
+        "9":"Create an account",
+        "10":"Enter your details below",
+        "11":"Already have account?"
+    },
+    "Contact":{
+        "1":"Call to us",
+        "2":"Write to us"
+    },
+    "final":{
+        "1":"FREE AND FAST DELIVERY"
+    }
+}
