@@ -77,7 +77,7 @@ const About = () => {
             <div className="w-[90%] xs:flex-wrap m-auto flex justify-evenly mt-[70px]">
                 <div className="text-center mt-[30px] w-[350px]">
                     <img className='ml-[130px]' src="/src/assets/Services.png" alt="" />
-                    <p className='text-[25px] font-semibold'>FREE AND FAST DELIVERY</p>
+                    <p className='text-[25px] font-semibold'> AND FAST DELIVERY</p>
                     <p className='text-[20px]'>Free delivery for all orders over $140</p>
                 </div>
 
